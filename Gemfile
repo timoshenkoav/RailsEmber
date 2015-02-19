@@ -32,3 +32,6 @@ end
 
 #Ember.js
 gem 'ember-cli-rails'
+
+#Haml
+gem 'haml-rails', '~> 0.8'
