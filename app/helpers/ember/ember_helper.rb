@@ -1,0 +1,2 @@
+module Ember::EmberHelper
+end
